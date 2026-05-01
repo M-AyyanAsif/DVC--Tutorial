@@ -1,2 +1,2 @@
-# DVC--Tutorial
-In this repo we are going to dicuss the concepts of DVC
+# MLOPS_DVC
+In this repository we are going to dicuss and practise the concepts of DVC.
